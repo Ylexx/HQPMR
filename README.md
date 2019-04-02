@@ -1,2 +1,2 @@
 # HQPMR
--　Waiting for release
+- Waiting for release
